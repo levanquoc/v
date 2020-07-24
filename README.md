@@ -16,7 +16,7 @@ print("Nếu có một ngày em không tìm thấy tôi, dù thế nào cũng đ
 
 ```
 | Tables        | Are          | Cool  |
-|-------------- |:-----| -----:|
+|-------------- |:---
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
