@@ -1,3 +1,5 @@
 # Mở đầu
 ## Nội dung
-### Tiêu đề
+* In nghiêng *
+** In đậm **
+*** # Vừa in nghiêng vừa in đậm ***
