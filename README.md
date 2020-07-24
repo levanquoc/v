@@ -5,7 +5,7 @@
 ### ***Vừa in nghiêng vừa in đậm***
 
 [Gmail](https://mail.google.com/mail/u/0/#inbox)
->text
+>Chỉ có thay đổi thái độ, bạn mới có thể thay đổi được chất lượng cuộc sống của chính mình. Nguyên nhân khiến con người mơ hồ chỉ có một, đó chính là trong những năm tháng cần phải phấn đấu, chúng ta lại nghĩ quá nhiều, làm quá ít.
 <img src='https://cdn.rawgit.com/YourUserAccount/YourProject/master/DirectoryPath/svgdemo1.svg' >
 
 ```python
