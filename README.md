@@ -6,3 +6,4 @@
 
 [Gmail](https://mail.google.com/mail/u/0/#inbox)
 >text
+![alt text](http://url/to/img.png)
