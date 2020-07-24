@@ -15,5 +15,6 @@ import os
 print("Nếu có một ngày em không tìm thấy tôi, dù thế nào cũng đừng buồn bã, chẳng phải tôi không còn yêu em nữa hay em đã bỏ lỡ mất tôi, mà là cuối cùng tôi cũng có đủ dũng khí để rời xa em. Nhưng xin em hãy ghi nhớ rằng, trước đây tôi thật sự từng ngốc nghếch chờ đợi em!")
 
 ```
-|IdName   |Name     | Age   |
-|---------|:-------:|-------|
+|IdName   |Name         | Age   |
+|---------|:-----------:|:-----:|
+|1        |Lê Văn Quốc  | 24     |
